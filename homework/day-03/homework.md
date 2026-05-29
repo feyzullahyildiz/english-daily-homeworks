@@ -54,6 +54,14 @@ Tema: Yemek yemek (eat).
 | 10 | Pizza yemenin iyi bir fikir olduğunu gördüm. | |
 | 11 | Arkadaşım senin pizzayı tek başına yediğini biliyordu. | |
 | 12 | Dün akşam beraber pizza yediğimizi hatırladım. | |
+| 13 | Senin dün akşam çok fazla pizza yediğini düşündüm. | |
+| 14 | Onun pizzayı soğuk yediğini fark ettim. | |
+| 15 | Babamın benim pizzamı yediğini anladım. | |
+| 16 | Onların restoranda pizza yediklerini söyledim. | |
+| 17 | Senin pizzayı sevmediğini biliyordum. | |
+| 18 | Pizza yemenin iyi bir fikir olmadığını anladım. | |
+| 19 | Annemin pizzayı evde yaptığını düşündüm. | |
+| 20 | Sonunda en iyi pizzayı yediğimizi fark ettim. | |
 
 ---
 
@@ -99,6 +107,14 @@ Bugün öğrendiğin iki yapıyı birlikte kullanarak kendi cümleni yaz:
 | 10 | Pizza yemenin iyi bir fikir olduğunu gördüm. | I saw that eating pizza was a good idea. |
 | 11 | Arkadaşım senin pizzayı tek başına yediğini biliyordu. | My friend knew that you ate the pizza alone. |
 | 12 | Dün akşam beraber pizza yediğimizi hatırladım. | I remembered that we ate pizza together last night. |
+| 13 | Senin dün akşam çok fazla pizza yediğini düşündüm. | I thought that you ate too much pizza last night. |
+| 14 | Onun pizzayı soğuk yediğini fark ettim. | I noticed that he ate the pizza cold. |
+| 15 | Babamın benim pizzamı yediğini anladım. | I understood that my father ate my pizza. |
+| 16 | Onların restoranda pizza yediklerini söyledim. | I said that they ate pizza at the restaurant. |
+| 17 | Senin pizzayı sevmediğini biliyordum. | I knew that you did not like the pizza. |
+| 18 | Pizza yemenin iyi bir fikir olmadığını anladım. | I understood that eating pizza was not a good idea. |
+| 19 | Annemin pizzayı evde yaptığını düşündüm. | I thought that my mother made the pizza at home. |
+| 20 | Sonunda en iyi pizzayı yediğimizi fark ettim. | Finally, I noticed that we ate the best pizza. |
 
 **Tekrar Soruları:**
 

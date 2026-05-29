@@ -54,6 +54,14 @@ Cümleler hem **Present Continuous** hem **Gerund as Subject** yapılarını iç
 | 10 | Karanlıkta kitap okumak gözlerimi yoruyor. | |
 | 11 | Kitap okumak en sevdiğim hobimdir. | |
 | 12 | Şiir okumak ruhumu besliyor. | |
+| 13 | Ben şu an yeni bir makale okuyorum. | |
+| 14 | Gazete okumak bana dünyayı tanıtıyor. | |
+| 15 | Çocuklara masal okumak onları uyutuyor. | |
+| 16 | Yabancı dilde kitap okumak zor görünüyor. | |
+| 17 | Her gece okumak alışkanlığımı güçlendiriyor. | |
+| 18 | İlgimi çeken kitapları okumak zamanın nasıl geçtiğini unutturuyor. | |
+| 19 | Okumak hayal gücümü geliştiriyor. | |
+| 20 | Bütün gün kitap okumak beni çok mutlu ediyor. | |
 
 ---
 
@@ -97,6 +105,14 @@ Bugün öğrendiğin iki yapıyı birlikte kullanarak kendi cümleni yaz:
 | 10 | Karanlıkta kitap okumak gözlerimi yoruyor. | Reading in the dark tires my eyes. |
 | 11 | Kitap okumak en sevdiğim hobimdir. | Reading is my favorite hobby. |
 | 12 | Şiir okumak ruhumu besliyor. | Reading poetry feeds my soul. |
+| 13 | Ben şu an yeni bir makale okuyorum. | I am reading a new article right now. |
+| 14 | Gazete okumak bana dünyayı tanıtıyor. | Reading newspapers introduces the world to me. |
+| 15 | Çocuklara masal okumak onları uyutuyor. | Reading tales to children puts them to sleep. |
+| 16 | Yabancı dilde kitap okumak zor görünüyor. | Reading books in a foreign language seems difficult. |
+| 17 | Her gece okumak alışkanlığımı güçlendiriyor. | Reading every night strengthens my habit. |
+| 18 | İlgimi çeken kitapları okumak zamanın nasıl geçtiğini unutturuyor. | Reading books that interest me makes me forget how time passes. |
+| 19 | Okumak hayal gücümü geliştiriyor. | Reading improves my imagination. |
+| 20 | Bütün gün kitap okumak beni çok mutlu ediyor. | Reading books all day makes me very happy. |
 
 **Tekrar Soruları:**
 

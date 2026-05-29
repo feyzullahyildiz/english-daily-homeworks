@@ -54,6 +54,14 @@ Cümleler hem Simple Present hem That-clause yapılarını birlikte içeriyor.
 | 10 | Babam her sabah koşmanın iyi olduğunu biliyor. | |
 | 11 | Arkadaşım senin çok hızlı koştuğunu düşünüyor. | |
 | 12 | Her sabah koşmadığını fark ediyorum. | |
+| 13 | Seninle parkta koştuğumuzu biliyorum. | |
+| 14 | Her sabah koşmamız gerektiğini düşünüyorum. | |
+| 15 | Onların sabahları orada koştuğunu biliyor musun? | |
+| 16 | Senin her gün beş kilometre koştuğuna inanıyorum. | |
+| 17 | Koşmanın kalbe iyi geldiğini söylüyorlar. | |
+| 18 | Onun eskisi gibi koşmadığını fark ediyorum. | |
+| 19 | Bizim ormanda koştuğumuzu düşünüyorlar. | |
+| 20 | Sonuçta her sabah koşmanın en iyisi olduğunu biliyorum. | |
 
 ---
 
@@ -93,6 +101,14 @@ Bugün öğrendiğin iki yapıyı birlikte kullanarak kendi cümleni yaz:
 | 10 | Babam her sabah koşmanın iyi olduğunu biliyor. | My father knows that running every morning is good. |
 | 11 | Arkadaşım senin çok hızlı koştuğunu düşünüyor. | My friend thinks that you run very fast. |
 | 12 | Her sabah koşmadığını fark ediyorum. | I notice that you do not run every morning. |
+| 13 | Seninle parkta koştuğumuzu biliyorum. | I know that we run in the park with you. |
+| 14 | Her sabah koşmamız gerektiğini düşünüyorum. | I think that we need to run every morning. |
+| 15 | Onların sabahları orada koştuğunu biliyor musun? | Do you know that they run there in the mornings? |
+| 16 | Senin her gün beş kilometre koştuğuna inanıyorum. | I believe that you run five kilometers every day. |
+| 17 | Koşmanın kalbe iyi geldiğini söylüyorlar. | They say that running is good for the heart. |
+| 18 | Onun eskisi gibi koşmadığını fark ediyorum. | I notice that he does not run like before. |
+| 19 | Bizim ormanda koştuğumuzu düşünüyorlar. | They think that we run in the forest. |
+| 20 | Sonuçta her sabah koşmanın en iyisi olduğunu biliyorum. | Finally, I know that running every morning is the best. |
 
 **Tekrar Soruları:**
 

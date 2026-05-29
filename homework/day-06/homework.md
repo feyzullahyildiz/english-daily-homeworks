@@ -47,6 +47,14 @@ Tema: Çalışma ve öğrenme rutinleri (study).
 | 10 | ben senden nasıl çalışman gerektiğini öğrenmek istiyorum. | |
 | 11 | ne zaman ders alacağımızı söylemiyorlardı. | |
 | 12 | senin neden hep geç kaldığını anlamıyorum. | |
+| 13 | şu an ne çalıştığını bana söyleyebilir misin? | |
+| 14 | kütüphanede kimin ders çalıştığını bilmiyorum. | |
+| 15 | yarınki sınava nasıl çalışıyor olduğunu görüyorum. | |
+| 16 | neden onunla birlikte çalışmadığını soruyorum. | |
+| 17 | sınav için ne zaman çalışmaya başlayacağını merak ediyorum. | |
+| 18 | hangi konuları çalıştığını bana anlatıyor musun? | |
+| 19 | gece yarısı neden ders çalıştığını anlamıyorum. | |
+| 20 | nasıl bu kadar odaklanarak çalıştığını öğrenmek istiyorum. | |
 
 ---
 
@@ -87,6 +95,14 @@ Bugün öğrendiğin iki yapıyı birlikte kullanarak kendi cümleni yaz:
 | 10 | ben senden nasıl çalışman gerektiğini öğrenmek istiyorum. | I want to learn how you are studying from you. |
 | 11 | ne zaman ders alacağımızı söylemiyorlardı. | They weren't saying when we would take lessons. |
 | 12 | senin neden hep geç kaldığını anlamıyorum. | I don't understand why you are always late. |
+| 13 | şu an ne çalıştığını bana söyleyebilir misin? | Can you tell me what you are studying right now? |
+| 14 | kütüphanede kimin ders çalıştığını bilmiyorum. | I don't know who is studying in the library. |
+| 15 | yarınki sınava nasıl çalışıyor olduğunu görüyorum. | I am seeing how you are studying for tomorrow's exam. |
+| 16 | neden onunla birlikte çalışmadığını soruyorum. | I am asking why you are not studying with him. |
+| 17 | sınav için ne zaman çalışmaya başlayacağını merak ediyorum. | I am wondering when you are starting to study for the exam. |
+| 18 | hangi konuları çalıştığını bana anlatıyor musun? | Are you telling me what subjects you are studying? |
+| 19 | gece yarısı neden ders çalıştığını anlamıyorum. | I don't understand why you are studying at midnight. |
+| 20 | nasıl bu kadar odaklanarak çalıştığını öğrenmek istiyorum. | I want to learn how you are studying so focused. |
 
 **Tekrar Soruları:**
 | # | Doğru Cevap |

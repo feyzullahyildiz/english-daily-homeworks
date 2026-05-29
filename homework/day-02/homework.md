@@ -55,6 +55,14 @@ Tema: Sahilde koşmak (run).
 | 10 | Kardeşimin (kız) her akşam sahilde koştuğunu fark ediyorum. | |
 | 11 | Ali ve Ayşe'nin her akşam beraber koştuğunu biliyorum. | |
 | 12 | Her akşam sahilde koşmanın bizi güçlendirdiğine inanıyorum. | |
+| 13 | Sahilde çok hızlı koştuğumu biliyorum. | |
+| 14 | Senin her akşam sahilde koştuğunu söylüyorlar. | |
+| 15 | Benimle sahilde koştuğunu hatırlıyorum. | |
+| 16 | Onların sahilde uzun süre koştuğunu fark ediyorum. | |
+| 17 | Senin sahilde tek başına koştuğuna inanmıyorum. | |
+| 18 | Köpeklerin de bizimle sahilde koştuğunu görüyorum. | |
+| 19 | Sahilde koşmanın sağlıklı olduğunu biliyorum. | |
+| 20 | Senin bu akşam sahilde koştuğunu umuyorum. | |
 
 ---
 
@@ -100,6 +108,30 @@ Bugün öğrendiğin iki yapıyı birlikte kullanarak kendi cümleni yaz:
 | 10 | Kardeşimin (kız) her akşam sahilde koştuğunu fark ediyorum. | I notice that my sister runs on the beach every evening. |
 | 11 | Ali ve Ayşe'nin her akşam beraber koştuğunu biliyorum. | I know that Ali and Ayşe run together every evening. |
 | 12 | Her akşam sahilde koşmanın bizi güçlendirdiğine inanıyorum. | I believe that running on the beach every evening strengthens us. |
+| 13 | Sahilde çok hızlı koştuğumu biliyorum. | I know that I run very fast on the beach. |
+| 14 | Senin her akşam sahilde koştuğunu söylüyorlar. | They say that you run on the beach every evening. |
+| 15 | Benimle sahilde koştuğunu hatırlıyorum. | I remember that you run on the beach with me. |
+| 16 | Onların sahilde uzun süre koştuğunu fark ediyorum. | I notice that they run on the beach for a long time. |
+| 17 | Senin sahilde tek başına koştuğuna inanmıyorum. | I do not believe that you run alone on the beach. |
+| 18 | Köpeklerin de bizimle sahilde koştuğunu görüyorum. | I see that the dogs also run with us on the beach. |
+| 19 | Sahilde koşmanın sağlıklı olduğunu biliyorum. | I know that running on the beach is healthy. |
+| 20 | Senin bu akşam sahilde koştuğunu umuyorum. | I hope that you run on the beach this evening. |
+
+**Tekrar Soruları:**
+
+| # | Doğru Cevap |
+|---|-------------|
+| 1 | I know that he runs very fast. |
+| 2 | Do you run in the park every morning? |
+| 3 | We do not run every morning. |
+
+</details>
+
+---
+
+*Sonraki gün: Simple Past + That-clause* 📖
+ healthy. |
+| 20 | Senin bu akşam sahilde koştuğunu umuyorum. | I hope that you run on the beach this evening. |
 
 **Tekrar Soruları:**
 

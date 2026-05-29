@@ -55,6 +55,14 @@ Tema fiili: **travel** (seyahat etmek)
 | 10 | Konforlu bir şekilde seyahat etmek herkes için mümkün olacak mı? | |
 | 11 | Farklı dilleri konuşmak için seyahat etmek çok yararlı olacak. | |
 | 12 | Tüm dünyayı seyahat etmek vizyonumu tamamen değiştirecek. | |
+| 13 | Her yaz farklı bir ülkeye seyahat edeceğim. | |
+| 14 | Gemide seyahat etmek çok lüks olacak. | |
+| 15 | Uzaya seyahat etmek mümkün olacak mı? | |
+| 16 | Dağlarda seyahat etmek tehlikeli olmayacak. | |
+| 17 | Seyahat etmek bize çok şey öğretecek. | |
+| 18 | Grupla seyahat etmek daha güvenli olacak. | |
+| 19 | Bisikletle seyahat etmek yorucu olacak. | |
+| 20 | Uzun süre seyahat etmek herkesin hayali olacak. | |
 
 ---
 
@@ -98,6 +106,14 @@ Bugün öğrendiğin iki yapıyı birlikte kullanarak kendi cümleni yaz:
 | 10 | Konforlu bir şekilde seyahat etmek herkes için mümkün olacak mı? | Will to travel comfortably be possible for everyone? |
 | 11 | Farklı dilleri konuşmak için seyahat etmek çok yararlı olacak. | To travel to speak different languages will be very useful. |
 | 12 | Tüm dünyayı seyahat etmek vizyonumu tamamen değiştirecek. | To travel the whole world will completely change my vision. |
+| 13 | Her yaz farklı bir ülkeye seyahat edeceğim. | I will travel to a different country every summer. |
+| 14 | Gemide seyahat etmek çok lüks olacak. | To travel on a ship will be very luxurious. |
+| 15 | Uzaya seyahat etmek mümkün olacak mı? | Will to travel to space be possible? |
+| 16 | Dağlarda seyahat etmek tehlikeli olmayacak. | To travel in the mountains will not be dangerous. |
+| 17 | Seyahat etmek bize çok şey öğretecek. | To travel will teach us a lot. |
+| 18 | Grupla seyahat etmek daha güvenli olacak. | To travel with a group will be safer. |
+| 19 | Bisikletle seyahat etmek yorucu olacak. | To travel by bike will be tiring. |
+| 20 | Uzun süre seyahat etmek herkesin hayali olacak. | To travel for a long time will be everyone's dream. |
 
 **Tekrar Soruları:**
 

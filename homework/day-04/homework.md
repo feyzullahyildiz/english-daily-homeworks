@@ -54,6 +54,14 @@ Cümleler hem **Simple Past** hem **Gerund as Subject** yapılarını içeriyor.
 | 10 | Tatlı yemek beni mutlu etmedi. | |
 | 11 | Birlikte yemek yemek bağlarımızı güçlendirdi. | |
 | 12 | Çok fazla yemek yemek beni yordu. | |
+| 13 | Gece geç saatte yemek yemek beni rahatsız etti. | |
+| 14 | Seninle o restoranda yemek yemek çok eğlenceliydi. | |
+| 15 | Aceleyle yemek yemek midemi bozdu. | |
+| 16 | Sadece sebze yemek yemek bana iyi geldi. | |
+| 17 | Her gün dışarıda yemek yemek bütçemi zorladı. | |
+| 18 | Az yemek yemek kilo vermemi sağladı. | |
+| 19 | Beraber sağlıklı yemek yemek hayatımızı değiştirdi. | |
+| 20 | Ailemle yemek yemek bana huzur verdi. | |
 
 ---
 
@@ -97,6 +105,14 @@ Bugün öğrendiğin iki yapıyı birlikte kullanarak kendi cümleni yaz:
 | 10 | Tatlı yemek beni mutlu etmedi. | Eating dessert didn't make me happy. |
 | 11 | Birlikte yemek yemek bağlarımızı güçlendirdi. | Eating together strengthened our bonds. |
 | 12 | Çok fazla yemek yemek beni yordu. | Eating too much made me tired. |
+| 13 | Gece geç saatte yemek yemek beni rahatsız etti. | Eating late at night disturbed me. |
+| 14 | Seninle o restoranda yemek yemek çok eğlenceliydi. | Eating with you at that restaurant was very fun. |
+| 15 | Aceleyle yemek yemek midemi bozdu. | Eating in a hurry upset my stomach. |
+| 16 | Sadece sebze yemek yemek bana iyi geldi. | Eating only vegetables was good for me. |
+| 17 | Her gün dışarıda yemek yemek bütçemi zorladı. | Eating out every day strained my budget. |
+| 18 | Az yemek yemek kilo vermemi sağladı. | Eating less helped me lose weight. |
+| 19 | Beraber sağlıklı yemek yemek hayatımızı değiştirdi. | Eating healthy food together changed our lives. |
+| 20 | Ailemle yemek yemek bana huzur verdi. | Eating with my family gave me peace. |
 
 **Tekrar Soruları:**
 

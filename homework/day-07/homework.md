@@ -55,6 +55,14 @@ Tema fiili: **travel** (seyahat etmek)
 | 10 | Konforlu bir şekilde seyahat etmek çok mu pahalı olacak? | |
 | 11 | Dil öğrenmek için yurt dışına seyahat etmek en iyi seçenek olacak. | |
 | 12 | Tüm dünyayı seyahat etmek benim hayatımı tamamen değiştirecek. | |
+| 13 | Gelecek yıl Asya'ya seyahat edeceğim. | |
+| 14 | Kışın seyahat etmek çok soğuk olacak. | |
+| 15 | Arabayla seyahat etmek bize zaman kaybettirecek. | |
+| 16 | Ailemle seyahat etmek çok eğlenceli olacak. | |
+| 17 | Parasız seyahat etmek zor olmayacak mı? | |
+| 18 | Yeni kültürleri keşfetmek için seyahat etmek beni heyecanlandıracak. | |
+| 19 | Deniz yoluyla seyahat etmek sakinleştirici olacak. | |
+| 20 | Sürekli seyahat etmek yorucu ama paha biçilemez olacak. | |
 
 ---
 
@@ -100,6 +108,14 @@ Bugün öğrendiğin iki yapıyı birlikte kullanarak kendi cümleni yaz:
 | 10 | Konforlu bir şekilde seyahat etmek çok mu pahalı olacak? | Will traveling comfortably be very expensive? |
 | 11 | Dil öğrenmek için yurt dışına seyahat etmek en iyi seçenek olacak. | Traveling abroad to learn a language will be the best option. |
 | 12 | Tüm dünyayı seyahat etmek benim hayatımı tamamen değiştirecek. | Traveling the whole world will completely change my life. |
+| 13 | Gelecek yıl Asya'ya seyahat edeceğim. | I will travel to Asia next year. |
+| 14 | Kışın seyahat etmek çok soğuk olacak. | Traveling in winter will be very cold. |
+| 15 | Arabayla seyahat etmek bize zaman kaybettirecek. | Traveling by car will waste our time. |
+| 16 | Ailemle seyahat etmek çok eğlenceli olacak. | Traveling with my family will be very fun. |
+| 17 | Parasız seyahat etmek zor olmayacak mı? | Won't traveling without money be difficult? |
+| 18 | Yeni kültürleri keşfetmek için seyahat etmek beni heyecanlandıracak. | Traveling to discover new cultures will excite me. |
+| 19 | Deniz yoluyla seyahat etmek sakinleştirici olacak. | Traveling by sea will be calming. |
+| 20 | Sürekli seyahat etmek yorucu ama paha biçilemez olacak. | Traveling constantly will be tiring but priceless. |
 
 **Tekrar Soruları:**
 

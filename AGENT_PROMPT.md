@@ -145,6 +145,14 @@ Cümleler hem **{ANA_KONU}** hem **{PARALEL_KONU}** yapılarını içeriyor.
 | 10 | ... | |
 | 11 | ... | |
 | 12 | ... | |
+| 13 | ... | |
+| 14 | ... | |
+| 15 | ... | |
+| 16 | ... | |
+| 17 | ... | |
+| 18 | ... | |
+| 19 | ... | |
+| 20 | ... | |
 
 ---
 
@@ -190,6 +198,14 @@ Bugün öğrendiğin iki yapıyı birlikte kullanarak kendi cümleni yaz:
 | 10 | ... | ... |
 | 11 | ... | ... |
 | 12 | ... | ... |
+| 13 | ... | ... |
+| 14 | ... | ... |
+| 15 | ... | ... |
+| 16 | ... | ... |
+| 17 | ... | ... |
+| 18 | ... | ... |
+| 19 | ... | ... |
+| 20 | ... | ... |
 
 **Tekrar Soruları:**
 
@@ -210,7 +226,7 @@ Bugün öğrendiğin iki yapıyı birlikte kullanarak kendi cümleni yaz:
 
 ## ÖDEV CÜMLELERİ — YAZIM KURALLARI
 
-**Konu-kelime ailesi:** 12 cümlenin tamamı aynı tema/fiil etrafında döner.
+**Konu-kelime ailesi:** 20 cümlenin tamamı aynı tema/fiil etrafında döner.
 Cümleler zincirleme ilerler — her biri bir öncekine anlam olarak yakın ya da onun devamıdır.
 Hem ana konu kalıpları hem paralel konu kalıpları aynı cümle setinde iç içe geçer.
 Zorluk sırası: basit → karmaşık.
@@ -229,6 +245,14 @@ Koşmak sağlıklı olduğu için koştuğumu biliyorum.
 Her sabah koşmanın önemli olduğuna inanıyorum.
 Koşmayı sevmediğini biliyorum.
 Seninle koşmak istediğimi biliyorum.
+Yarın sabah seninle koşacağımı biliyorum.
+Koşmam gerektiğini biliyorum.
+Koşarken şarkı söylediğimi biliyorum.
+Daha hızlı koşabileceğimi biliyorum.
+Neden koştuğumu biliyorum.
+Koştuğumda kendimi iyi hissettiğimi biliyorum.
+Keşke daha fazla koşsam dediğimi biliyorum.
+Sonuçta koşmanın her şeyden iyi olduğunu biliyorum.
 ```
 
 ---

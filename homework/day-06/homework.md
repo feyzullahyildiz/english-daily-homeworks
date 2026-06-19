@@ -80,7 +80,9 @@ Bugün öğrendiğin iki yapıyı birlikte kullanarak kendi cümleni yaz:
 ## ✅ Cevap Anahtarı
 <details>
 <summary>Cevapları görmek için tıkla</summary>
+
 **Bugünün Ödevi:**
+
 | # | Türkçe | Doğru Cevap |
 |---|--------|-------------|
 | 1 | şu anda neden bu kadar çok çalıştığını merak ediyorum. | I am wondering why you are studying so much right now. |
@@ -105,6 +107,7 @@ Bugün öğrendiğin iki yapıyı birlikte kullanarak kendi cümleni yaz:
 | 20 | nasıl bu kadar odaklanarak çalıştığını öğrenmek istiyorum. | I want to learn how you are studying so focused. |
 
 **Tekrar Soruları:**
+
 | # | Doğru Cevap |
 |---|-------------|
 | 1 | Studying together with you is very fun. |
